@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Atualmente estou no 4° semestre do curso Análise e Desenvolvimento de Sistemas na FATEC-ZL.
+Atualmente estou no 5° semestre do curso Análise e Desenvolvimento de Sistemas na FATEC-ZL.
 
 ## Estou aprendendo:
 
